@@ -1,7 +1,5 @@
 # python-number-generator
 
-# Code
-
 ```Python
 #random number generator - by Spiral
 import random
