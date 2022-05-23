@@ -1,4 +1,4 @@
-# python-number-generator
+# Python-Number-Generator
 
 ```Python
 #random number generator - by Spiral
